@@ -7,3 +7,4 @@ var wolverine = {
     nombre: "Logan"
 };
 saludar(wolverine.nombre);
+hola me equivoque;
